@@ -187,6 +187,7 @@ The following are the tables for inbound and outbound rules for the DB NACL.
 ## DB NACL (Outbound Rules)
 
 |Rule Number|	Type|	Protocol|	Port Range|	Destination IP|	Allow/Deny|
+|-----------|-------|-----------|-------------|---------------|-----------|
 |100|	Custom TCP|	TCP|	3306|	10.0.0.192/28|	Allow|
 |110|	Custom TCP|	TCP|	3306|	10.0.0.208/28|	Allow|
 |120|	Custom TCP|	TCP|	3306|	10.0.0.224/28|	Allow|
