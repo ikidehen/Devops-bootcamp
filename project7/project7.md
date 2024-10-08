@@ -8,7 +8,7 @@
 
 ![1](img7/1.png)
 
-![2](IMG7/2.png)
+![2](img7/2.png)
 
 ![3](img7/3.png)
 
@@ -23,7 +23,7 @@
 ![6](img7/6.png)
 
 - Click on Action and Select Attach to VPC
-![7](IMG7/7.png)
+![7](img7/7.png)
 
 ![8](img7/8.png)
 
