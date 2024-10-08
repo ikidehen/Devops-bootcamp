@@ -149,7 +149,7 @@ After using the table and steps above to create the other route tables and subne
 
 ![27](img7/27.png)
 
-- follow exactly process as the images
+- follow the images exactly
 
 ![28](img7/28.png)
 
@@ -175,7 +175,7 @@ To check our VPC topology:
 
 The following are the tables for inbound and outbound rules for the DB NACL.
 
-## DB NACL (Inbound Rules)
+### DB NACL (Inbound Rules)
 
 |Rule Number|	Type|	Protocol|	Port Range|	Source IP|	Allow/Deny|
 |-----------|-------|-----------|-------------|----------|------------|
@@ -184,7 +184,7 @@ The following are the tables for inbound and outbound rules for the DB NACL.
 |120|	MySQL/Aurora(3306)|	TCP|	3306|	10.0.0.128/28|	Allow|
 *|	All| Traffic|	All|	All|	0.0.0.0/0|	Deny|
 
-## DB NACL (Outbound Rules)
+### DB NACL (Outbound Rules)
 
 |Rule Number|	Type|	Protocol|	Port Range|	Destination IP|	Allow/Deny|
 |-----------|-------|-----------|-------------|---------------|-----------|
